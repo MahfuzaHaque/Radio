@@ -68,8 +68,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     @BindView(R.id.volume_seek_bar)
     SeekBar volumeSeekBar;
 
-
-
     @BindView(R.id.volumeCheckBox)
     CheckBox volumeCheckBox;
 
