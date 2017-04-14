@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/drawer_home" />
+
+        <item
+            android:id="@+id/nav_statation_list"
+            android:icon="@drawable/ic_radio_black_24dp"
+            android:title="@string/drawer_station" />
+
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="@string/drawer_favorite" />
+
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_rate_review_black_24dp"
+            android:title="@string/drawer_rate" />
+
+        <item
+            android:id="@+id/nav_like"
+            android:icon="@drawable/ic_thumb_up_black_24dp"
+            android:title="@string/drawer_more" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_help_black_24dp"
+            android:title="@string/drawer_setting" />
+    </group>
+</menu>

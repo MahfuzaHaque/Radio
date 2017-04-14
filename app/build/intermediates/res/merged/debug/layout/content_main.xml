@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/window_bottom_background"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/app_bar_main">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/radio_control_layout"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:id="@+id/radio_control_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="@dimen/margin_large">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <ImageButton
+                android:id="@+id/previousImageButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/margin_small_small"
+                android:background="@null"
+                android:rotation="180"
+                android:src="@drawable/ic_fast_forward_black_36dp" />
+
+            <CheckBox
+                android:id="@+id/playCheckBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_small_small"
+                android:layout_marginRight="@dimen/margin_small_small"
+                android:background="@null"
+                android:button="@drawable/play_selector"
+                android:checked="false" />
+
+            <ImageButton
+                android:id="@+id/nextImageBtton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_small_small"
+                android:layout_marginRight="@dimen/margin_small_small"
+                android:background="@null"
+                android:src="@drawable/ic_fast_forward_black_36dp" />
+
+            <CheckBox
+                android:id="@+id/favoriteCheckBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_small_small"
+                android:layout_marginRight="@dimen/margin_small_small"
+                android:background="@null"
+                android:button="@drawable/favorite_selector"
+                android:checked="false" />
+
+            <ImageButton
+                android:id="@+id/shareImageButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_small_small"
+                android:background="@null"
+                android:src="@drawable/ic_share_black_24dp" />
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_medium"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <SeekBar
+                android:id="@+id/volume_seek_bar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_centerVertical="true"
+                android:layout_toEndOf="@+id/volumeCheckBox"
+                android:layout_toRightOf="@+id/volumeCheckBox"
+                android:indeterminate="false"
+                android:max="101"
+                android:maxHeight="5dip"
+                android:minHeight="5dip"
+                android:progress="100"
+                android:progressDrawable="@drawable/progressbar"
+                android:splitTrack="false"
+                android:thumb="@drawable/thum" />
+
+            <CheckBox
+                android:id="@+id/volumeCheckBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_centerVertical="true"
+                android:button="@drawable/volume_selector"
+                android:checked="true"
+                android:visibility="visible" />
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>
