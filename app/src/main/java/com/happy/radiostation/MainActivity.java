@@ -144,7 +144,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         volumeCheckBox.setOnCheckedChangeListener(this);
     }
 
-
     @Override
     public void onBackPressed() {
         if (drawer.isDrawerOpen(GravityCompat.START)) {
