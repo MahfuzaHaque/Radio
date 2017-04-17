@@ -1,19 +1,23 @@
 [
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_arrow_back_black_24dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_back_black_24dp.png"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_close_black_24dp.png",
+        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_close_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_rate_review_black_24dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_rate_review_black_24dp.png"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_volume_up_black_36dp.png",
+        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_volume_up_black_36dp.png"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_add_black_24dp.png",
         "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_queue_music_white_36dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_queue_music_white_36dp.png"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_share_black_24dp.png",
+        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_share_black_24dp.png"
+    },
+    {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_queue_music_white_36dp.png",
+        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_queue_music_white_36dp.png"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pause_black_36dp.png",
@@ -24,100 +28,16 @@
         "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_thumb_up_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_add_black_24dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_play_arrow_black_36dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_play_arrow_black_36dp.png"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_volume_off_black_36dp.png",
-        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_volume_off_black_36dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pause_black_36dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pause_black_36dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_favorite_white_36dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite_white_36dp.png"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_power_settings_new_black_24dp.png",
-        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_power_settings_new_black_24dp.png"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_favorite_black_24dp.png",
-        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite_black_24dp.png"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_fast_forward_black_36dp.png",
-        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_fast_forward_black_36dp.png"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_favorite_white_36dp.png",
-        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite_white_36dp.png"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_radio_black_24dp.png",
-        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_radio_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_power_settings_new_black_24dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_power_settings_new_black_24dp.png"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_close_black_24dp.png",
-        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_close_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_close_black_24dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_close_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_share_black_24dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_share_black_24dp.png"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_volume_up_black_36dp.png",
-        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_volume_up_black_36dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_favorite_alpha_24dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite_alpha_24dp.png"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_share_black_24dp.png",
-        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_share_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_help_black_24dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_help_black_24dp.png"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_queue_music_white_36dp.png",
-        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_queue_music_white_36dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_thumb_up_black_24dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_thumb_up_black_24dp.png"
-    },
-    {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_favorite_alpha_24dp.png",
         "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite_alpha_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_radio_black_title_24dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_radio_black_title_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_volume_off_black_36dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_volume_off_black_36dp.png"
-    },
-    {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_arrow_back_black_24dp.png",
         "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_volume_off_black_36dp.png",
+        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_volume_off_black_36dp.png"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_rate_review_black_24dp.png",
@@ -128,40 +48,36 @@
         "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_favorite_black_24dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_volume_up_black_36dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_volume_up_black_36dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_home_black_24dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_power_settings_new_black_24dp.png",
+        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_power_settings_new_black_24dp.png"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search_black_24dp.png",
         "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search_black_24dp.png"
     },
     {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_favorite_black_24dp.png",
+        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite_black_24dp.png"
+    },
+    {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_play_arrow_black_36dp.png",
         "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_play_arrow_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search_black_24dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search_black_24dp.png"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_fast_forward_black_36dp.png",
+        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_fast_forward_black_36dp.png"
+    },
+    {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_favorite_white_36dp.png",
+        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite_white_36dp.png"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_help_black_24dp.png",
         "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_help_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_fast_forward_black_36dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_fast_forward_black_36dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_radio_black_24dp.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_radio_black_24dp.png"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_radio_black_24dp.png",
+        "source": "F:\\android\\workspace\\RadioStation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_radio_black_24dp.png"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_radio_black_title_24dp.png",

@@ -2,9 +2,5 @@
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout-v16\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v16\\notification_template_custom_big.xml"
     }
 ]

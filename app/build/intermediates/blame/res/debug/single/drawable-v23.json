@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
-    },
-    {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\drawable-v23\\abc_control_background_material.xml"
     }

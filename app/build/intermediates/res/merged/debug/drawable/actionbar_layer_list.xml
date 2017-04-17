@@ -2,6 +2,6 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item android:drawable="@drawable/actionbar_background"/>
-    <item android:drawable="@drawable/wintow_top_bacgkround"/>
+    <item android:drawable="@drawable/toolbar_bacgkround"/>
 
 </layer-list>

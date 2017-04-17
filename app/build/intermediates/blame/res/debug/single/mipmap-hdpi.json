@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "F:\\android\\workspace\\RadioStation\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }

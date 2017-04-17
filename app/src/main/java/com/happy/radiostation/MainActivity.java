@@ -38,7 +38,8 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
-public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener, EventListener, RadioPlayer.OnRadioListener, CompoundButton.OnCheckedChangeListener {
+public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener,
+        EventListener, RadioPlayer.OnRadioListener, CompoundButton.OnCheckedChangeListener {
 
     @BindView(R.id.view_pager)
     ViewPager viewPager;
@@ -51,7 +52,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
     @BindView(R.id.drawer_layout)
     DrawerLayout drawer;
-
 
     @BindView(R.id.previousImageButton)
     ImageButton previousImageButton;
@@ -70,12 +70,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
     @BindView(R.id.volumeCheckBox)
     CheckBox volumeCheckBox;
-
-    @BindView(R.id.radio_control_layout)
-    LinearLayout radioControlLayout;
-
-    @BindView(R.id.shareImageButton)
-    ImageButton shareImageButton;
 
     private MainAdapter adapter;
     private RadioPlayer player;
@@ -104,23 +98,12 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
         drawer.addDrawerListener(toggle);
         toggle.syncState();
+
         navigationView.setNavigationItemSelectedListener(this);
         adapter = new MainAdapter(getSupportFragmentManager());
         viewPager.setAdapter(adapter);
         viewPager.setOffscreenPageLimit(adapter.getCount());
-        viewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
-            @Override
-            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
-            }
 
-            @Override
-            public void onPageSelected(int position) {
-            }
-
-            @Override
-            public void onPageScrollStateChanged(int state) {
-            }
-        });
         viewPager.setCurrentItem(0);
         volumeSeekBar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
             @Override

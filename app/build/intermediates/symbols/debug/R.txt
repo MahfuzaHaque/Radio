@@ -733,9 +733,9 @@ int drawable progressbar 0x7f020083
 int drawable rouund_corner_bg 0x7f020084
 int drawable side_nav_bar 0x7f020085
 int drawable thum 0x7f020086
-int drawable volume_selector 0x7f020087
-int drawable window_bottom_background 0x7f020088
-int drawable wintow_top_bacgkround 0x7f020089
+int drawable toolbar_bacgkround 0x7f020087
+int drawable volume_selector 0x7f020088
+int drawable window_bottom_background 0x7f020089
 int id action0 0x7f0d009e
 int id action_add 0x7f0d00bc
 int id action_bar 0x7f0d0065
@@ -921,8 +921,8 @@ int id useLogo 0x7f0d0019
 int id view_offset_helper 0x7f0d000f
 int id view_pager 0x7f0d007a
 int id visible 0x7f0d00b2
-int id volumeCheckBox 0x7f0d0082
-int id volume_seek_bar 0x7f0d0081
+int id volumeCheckBox 0x7f0d0081
+int id volume_seek_bar 0x7f0d0082
 int id withText 0x7f0d003f
 int id wrap_content 0x7f0d0025
 int integer abc_config_activityDefaultDur 0x7f0b0001

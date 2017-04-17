@@ -37,7 +37,6 @@ public class RadioPlayer {
     private RadioData radioData;
     private static RadioPlayer radioPlayer;
     private WeakReference<Context> mContext;
-
     private WeakReference<OnRadioListener> mListener;
 
     public static RadioPlayer getRadioPlayer(Context context) {

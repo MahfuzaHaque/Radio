@@ -4,96 +4,108 @@
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_lines_media.xml"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
         "source": "F:\\android\\workspace\\RadioStation\\app\\src\\main\\res\\layout\\app_bar_main.xml"
     },
     {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_alert_dialog_title_material.xml"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\src\\main\\res\\layout\\activity_about.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ittem_add.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\src\\main\\res\\layout\\ittem_add.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "F:\\android\\workspace\\RadioStation\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_item_separator.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
@@ -104,36 +116,44 @@
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "F:\\android\\workspace\\RadioStation\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chanel_list.xml",
         "source": "F:\\android\\workspace\\RadioStation\\app\\src\\main\\res\\layout\\fragment_chanel_list.xml"
     },
     {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_radio.xml",
         "source": "F:\\android\\workspace\\RadioStation\\app\\src\\main\\res\\layout\\fragment_radio.xml"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_search_view.xml"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
@@ -152,24 +172,16 @@
         "source": "F:\\android\\workspace\\RadioStation\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ittem_add.xml",
+        "source": "F:\\android\\workspace\\RadioStation\\app\\src\\main\\res\\layout\\ittem_add.xml"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_text_input_password_icon.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
@@ -180,6 +192,10 @@
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_radio.xml",
+        "source": "F:\\android\\workspace\\RadioStation\\app\\src\\main\\res\\layout\\item_radio.xml"
+    },
+    {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_search_view.xml"
     },
@@ -188,272 +204,8 @@
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_layout_tab_text.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_radio.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\src\\main\\res\\layout\\item_radio.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
-        "source": "F:\\android\\workspace\\RadioStation\\app\\src\\main\\res\\layout\\content_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_action.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_bottom_sheet_dialog.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\src\\main\\res\\layout\\content_main.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_bottom_navigation_item.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\src\\main\\res\\layout\\app_bar_main.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_text_input_password_icon.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_item_subheader.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
-        "source": "F:\\android\\workspace\\RadioStation\\app\\src\\main\\res\\layout\\activity_about.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\src\\main\\res\\layout\\nav_header_main.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_navigation_item_subheader.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_item_header.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_navigation_menu.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
-        "source": "F:\\android\\workspace\\RadioStation\\app\\src\\main\\res\\layout\\nav_header_main.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_item.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chanel_list.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\src\\main\\res\\layout\\fragment_chanel_list.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_media_custom.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ittem_add.xml",
-        "source": "F:\\android\\workspace\\RadioStation\\app\\src\\main\\res\\layout\\ittem_add.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_menu.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_radio.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\src\\main\\res\\layout\\fragment_radio.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_menu_item_action_area.xml"
-    },
-    {
-        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_radio.xml",
-        "source": "F:\\android\\workspace\\RadioStation\\app\\src\\main\\res\\layout\\item_radio.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_menu_item.xml"
-    },
-    {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
@@ -464,32 +216,32 @@
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "F:\\android\\workspace\\RadioStation\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
         "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_screen_simple.xml"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\9ea3d9575e7ab62f73cc727c31e6fa96a5c574d8\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_bottom_navigation_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\Mahfuza\\Desktop\\RadioStation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Mahfuza\\.android\\build-cache\\c7d4d2fd65ff493bed9df1c103a842fd0aa8fdc4\\output\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "F:\\android\\workspace\\RadioStation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",

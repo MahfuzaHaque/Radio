@@ -10,7 +10,6 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.CheckBox;
 import android.widget.ImageButton;
-import android.widget.LinearLayout;
 import android.widget.SeekBar;
 import butterknife.Unbinder;
 import butterknife.internal.DebouncingOnClickListener;
@@ -58,9 +57,7 @@ public class MainActivity_ViewBinding<T extends MainActivity> implements Unbinde
     target.favoriteCheckBox = Utils.findRequiredViewAsType(source, R.id.favoriteCheckBox, "field 'favoriteCheckBox'", CheckBox.class);
     target.volumeSeekBar = Utils.findRequiredViewAsType(source, R.id.volume_seek_bar, "field 'volumeSeekBar'", SeekBar.class);
     target.volumeCheckBox = Utils.findRequiredViewAsType(source, R.id.volumeCheckBox, "field 'volumeCheckBox'", CheckBox.class);
-    target.radioControlLayout = Utils.findRequiredViewAsType(source, R.id.radio_control_layout, "field 'radioControlLayout'", LinearLayout.class);
-    view = Utils.findRequiredView(source, R.id.shareImageButton, "field 'shareImageButton' and method 'onClick'");
-    target.shareImageButton = Utils.castView(view, R.id.shareImageButton, "field 'shareImageButton'", ImageButton.class);
+    view = Utils.findRequiredView(source, R.id.shareImageButton, "method 'onClick'");
     view2131558528 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
@@ -86,8 +83,6 @@ public class MainActivity_ViewBinding<T extends MainActivity> implements Unbinde
     target.favoriteCheckBox = null;
     target.volumeSeekBar = null;
     target.volumeCheckBox = null;
-    target.radioControlLayout = null;
-    target.shareImageButton = null;
 
     view2131558524.setOnClickListener(null);
     view2131558524 = null;

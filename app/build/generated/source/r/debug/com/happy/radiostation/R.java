@@ -2709,9 +2709,9 @@ containing a value of this type.
         public static final int rouund_corner_bg=0x7f020084;
         public static final int side_nav_bar=0x7f020085;
         public static final int thum=0x7f020086;
-        public static final int volume_selector=0x7f020087;
-        public static final int window_bottom_background=0x7f020088;
-        public static final int wintow_top_bacgkround=0x7f020089;
+        public static final int toolbar_bacgkround=0x7f020087;
+        public static final int volume_selector=0x7f020088;
+        public static final int window_bottom_background=0x7f020089;
     }
     public static final class id {
         public static final int action0=0x7f0d009e;
@@ -2899,8 +2899,8 @@ containing a value of this type.
         public static final int view_offset_helper=0x7f0d000f;
         public static final int view_pager=0x7f0d007a;
         public static final int visible=0x7f0d00b2;
-        public static final int volumeCheckBox=0x7f0d0082;
-        public static final int volume_seek_bar=0x7f0d0081;
+        public static final int volumeCheckBox=0x7f0d0081;
+        public static final int volume_seek_bar=0x7f0d0082;
         public static final int withText=0x7f0d003f;
         public static final int wrap_content=0x7f0d0025;
     }
